@@ -4,4 +4,4 @@
 - 🌱 Estudando Java
 
 
-![Philipe GitHub stats](https://github-readme-stats.vercel.app/api?username=ophilipelima&show_icons=true&theme=radical)
+![Philipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ophilipelima&show_icons=true&theme=radical)
