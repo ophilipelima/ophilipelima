@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Philipe
 
 - 👨‍🎓 Sou graduando de Engenharia de Software
-- 🌱 Estudando Java
+- ☕ Estudando Java
 
 
-![Philipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ophilipelima&show_icons=true&theme=radical)
+![Philipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ophilipelima&show_icons=true&theme=tokyonight)
