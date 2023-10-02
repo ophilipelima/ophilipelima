@@ -1,18 +1,21 @@
 ### Olá! Eu sou o Philipe
 
-- 👨‍🎓 Sou graduando de Engenharia de Software
+- 👨‍🎓 Sou graduando de Engenharia de Software 3/8
 - ☕ Estudando Backend
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ophilipelima/)
 
-![Philipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ophilipelima&show_icons=true&theme=merko)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ophilipelima&layout=compact)
+<div align="center">
+  <a href="https://github.com/ophilipelima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ophilipelima&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ophilipelima&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 <div style=display: iline_block><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" heigth="35"         width="45"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" heigth="35" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" heigth="35" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" heigth="35" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" heigth="35" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" heigth="35" width="45"/>
 </div>
