@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Philipe
 
-- 👨‍🎓 Graduando de Engenharia de Software 7/8
+- 👨‍🎓 Graduando de Engenharia de Software 8/8
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ophilipelima/)
 
