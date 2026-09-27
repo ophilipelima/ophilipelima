@@ -13,8 +13,8 @@
 
 <div style=display: iline_block><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" heigth="35" width="45"/>
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg](https://logolook.net/wp-content/uploads/2023/09/Amazon-Web-Services-Logo.png)" heigth="30" width="40"/>
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" heigth="30" width="40"/>
+   <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?u    tm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" heigth="30" width="40"/>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" heigth="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" heigth="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" heigth="35"         width="45"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" heigth="30" width="40" />
